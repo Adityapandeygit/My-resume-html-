@@ -1,0 +1,32 @@
+main{
+    border: 5px solid blue;
+    /*width: 50%;*/
+    width: 10vw;
+}
+section {
+    border: 5px dashed red;
+    
+}
+table{
+    border: solid white;
+   
+}
+td{
+    border-style: dashed;    
+}
+body{
+    background-color: rgb(202, 205, 34);
+    }
+header{
+    font-size: 2em;
+}
+h1{
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+section{
+    border: 3px dashed green;
+    width: 50vw;
+    
+}
